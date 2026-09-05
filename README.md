@@ -18,11 +18,6 @@ Blue team by trade, red team curious 🔴🔵 | SOC Analyst | learning pentestin
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MhdFadlyy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhdFadlyy&layout=compact&theme=tokyonight)
-
 ## 🎯 Currently Learning
 
 - Penetration Testing (OSCP path)
