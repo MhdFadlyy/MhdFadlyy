@@ -27,7 +27,7 @@ Blue team by trade, red team curious 🔴🔵 | SOC Analyst | learning pentestin
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paliii)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mhd.fadly973@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m.fadly020@gmail.com)
 
 ---
 ⭐️ If you dig what I'm building, follow along.
